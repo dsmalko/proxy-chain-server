@@ -1,0 +1,7 @@
+{
+  "name": "proxy-chain-server",
+  "private": true,
+  "dependencies": {
+    "proxy-chain": "^0.2.3"
+  }
+}
